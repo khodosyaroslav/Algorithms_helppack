@@ -74,7 +74,7 @@ public class LinkedList {
 		linkList.add(80);
 		linkList.add(90);
 		linkList.add(91);
-
+		
 		linkList.print();
 		System.out.println("\n------------------");
 		
